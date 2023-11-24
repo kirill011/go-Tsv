@@ -1,0 +1,11 @@
+host: "localhost"
+user: "postgres"
+password: "4526"
+dbname: "tsv"
+port: "5432"
+sslmode: "disable"
+timezone: "Europe/Moscow"
+dirInput: "../input"
+dirOutput: "../output"
+timeSleep: 10s
+apiPort: 8080
